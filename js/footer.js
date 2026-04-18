@@ -47,7 +47,7 @@ const FooterComponent = {
       </div>
       <div class="footer-bottom">
         <p>&copy; ${year} BoldTextGen — <a href="https://boldtextgenerator.github.io">boldtextgenerator.github.io</a>. Free Unicode Bold Text Generator.</p>
-        <p class="footer-legal"><a href="#">Privacy Policy</a> · <a href="#">Terms of Use</a> · <a href="#">Sitemap</a></p>
+        <p class="footer-legal"><a href="privacy">Privacy Policy</a> · <a href="terms">Terms of Use</a> · <a href="sitemap.xml">Sitemap</a></p>
       </div>
     `;
   }
