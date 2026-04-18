@@ -10,6 +10,7 @@ const HeaderComponent = {
             <span class="logo-text">Bold<span class="logo-accent">Text</span>Gen</span>
           </a>
           <ul class="nav-links" id="navLinks" role="navigation" aria-label="Main navigation">
+            <li><a href="/">Home</a></li>
             <li><a href="#generator">Generator</a></li>
             <li><a href="#styles">Styles</a></li>
             <li><a href="#how-it-works">How It Works</a></li>
